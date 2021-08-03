@@ -65,61 +65,6 @@
         "controlled"
       ],
       "correctIndex": 1
-    },
-    {
-      "prompt": "Everything in React is a",
-      "answers": [
-        "Module",
-        "Component",
-        "Package",
-        "Class"
-      ],
-      "correctIndex": "1",
-      "id": 7
-    },
-    {
-      "prompt": "Everything in React is _________",
-      "answers": [
-        "Module",
-        "Component",
-        "Class",
-        "Package"
-      ],
-      "correctIndex": "1",
-      "id": 8
-    },
-    {
-      "prompt": "Everything in React is _________",
-      "answers": [
-        "<head>",
-        "<title>",
-        "Package",
-        "Package"
-      ],
-      "correctIndex": "3",
-      "id": 9
-    },
-    {
-      "prompt": "Everything in React is _________",
-      "answers": [
-        "<head>",
-        "<title>",
-        "Package",
-        "Package"
-      ],
-      "correctIndex": "3",
-      "id": 10
-    },
-    {
-      "prompt": "Everything in React is _________",
-      "answers": [
-        "h3",
-        "<title>",
-        "</title>",
-        "Package"
-      ],
-      "correctIndex": 0,
-      "id": 11
     }
   ]
 }
